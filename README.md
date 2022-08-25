@@ -48,7 +48,12 @@ _italica_
 
 [markdowm](https://www.markdownguide.org/basic-syntax/)
 
+**imagen en sintxis MD**  
 
-![Mapa costa rica](https://d3lqdljps13i2n.cloudfront.net/recursos/89/2876441/imagen_1_1489601861.jpg)
+![Mapa costa rica](https://d3lqdljps13i2n.cloudfront.net/recursos/89/2876441/imagen_1_1489601861.jpg)  
+
+**IMAGEN EN SINTAXIS HTML**
+
+<img src="[image.png](https://d3lqdljps13i2n.cloudfront.net/recursos/89/2876441/imagen_1_1489601861.jpg)" width="200" height="100">
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
