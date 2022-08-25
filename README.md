@@ -25,5 +25,8 @@ _italica_
 ***negrita e italica***    
 **_negr e italica_**
 
+> "*Yo solo sé que no sé nada*"  
+Sócrates
+
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
