@@ -2,7 +2,7 @@
 
 Otro encabezado de nivel 1
 ============
-<h1Encabezado de nivel 1 en HTML</h1>
+<h1>Encabezado de nivel 1 en HTML</h1>
 
 ## Encabezado de nivel 2
 
