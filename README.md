@@ -1,3 +1,4 @@
+theme: minima
 # Encabezado de nivel 1
 
 Otro encabezado de nivel 1
