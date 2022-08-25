@@ -22,5 +22,8 @@ __negrita__
 *texto italica*  
 _italica_
 
+***negrita e italica***
+**_negr e italica_**
+
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
