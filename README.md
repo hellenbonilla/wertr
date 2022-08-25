@@ -48,5 +48,7 @@ _italica_
 
 [markdowm](https://www.markdownguide.org/basic-syntax/)
 
+
+![Mapa costa rica](123)
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
