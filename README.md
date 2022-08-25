@@ -19,6 +19,9 @@ Otra línea.
 Otra Línea más.<br> 
 Y otra línea más.  
 
+**texto en negrita**  
+__negrita__
+
 
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
