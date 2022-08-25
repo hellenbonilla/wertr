@@ -22,7 +22,7 @@ __negrita__
 *texto italica*  
 _italica_
 
-***negrita e italica***
+***negrita e italica***    
 **_negr e italica_**
 
 ##### Encabezado de nivel 5
