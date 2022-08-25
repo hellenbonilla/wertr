@@ -46,5 +46,7 @@ _italica_
 
 [mediación virtual](https://mv1.mediacionvirtual.ucr.ac.cr/login/index.php)
 
+[markdowm](https://www.markdownguide.org/basic-syntax/)
+
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
