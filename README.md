@@ -27,7 +27,19 @@ _italica_
 
 > "*Yo solo sé que no sé nada*" Sócrates
 
-< ¨*En un lugarde la mancha ...¨* Cervantes
+> "*En un lugar de la mancha ...¨* Cervantes
+
+**Lista numerada**
+
+1. arroz
+2. Frijoles
+3. Sandía
+
+**Lista no Numerada**
+
+
+- Arroz  
+- Sandía  
 
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
