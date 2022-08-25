@@ -60,7 +60,7 @@ _italica_
 
 ![Mapa costa rica](123.jpg)   
 
-<img src="123.png" width="200" height="100">
+<img src="123.png" width="200">
 
 
 
