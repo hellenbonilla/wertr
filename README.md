@@ -55,5 +55,13 @@ _italica_
 **IMAGEN EN SINTAXIS HTML**
 
 <img src="[image.png](https://d3lqdljps13i2n.cloudfront.net/recursos/89/2876441/imagen_1_1489601861.jpg)" width="200" height="100">
+
+**imagen en sintxis MD**  
+
+![Mapa costa rica](123.jpg)   
+
+
+
+
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
