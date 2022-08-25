@@ -19,7 +19,7 @@ Y otra línea más.
 **texto en negrita**  
 __negrita__
 
-*texto italica*
+*texto italica*  
 _italica_
 
 ##### Encabezado de nivel 5
